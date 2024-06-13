@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Defs",
+    "\\Defs\\DamageDefs",
+    "\\Defs\\Dev",
+    "\\Defs\\LifeStageDefs",
+    "\\Defs\\mental",
+    "\\Defs\\Research",
+    "\\Defs\\Scenarios",
+    "\\Defs\\ThingDefs_Races",
+    "\\Defs\\Weapons"
+  ],
+  "SelectedNode": "\\Defs\\ThingDefs_Races\\Race_Fungi.xml",
+  "PreviewInSolutionExplorer": false
+}
