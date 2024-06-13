@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Defs",
+    "\\Defs\\Ability",
+    "\\Defs\\FactionDefs",
+    "\\Defs\\PawnKindDefs_Humanlikes",
+    "\\Defs\\PawnKindDefs_Humanlikes\\Breeder",
+    "\\Defs\\PawnKindDefs_Humanlikes\\Infest",
+    "\\Defs\\PawnKindDefs_Humanlikes\\Spore",
+    "\\Defs\\Scenarios",
+    "\\Defs\\Weapons"
+  ],
+  "SelectedNode": "\\Defs\\Ability\\Ability.xml",
+  "PreviewInSolutionExplorer": false
+}
